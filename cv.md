@@ -18,3 +18,9 @@
 * Yarn
 * Express
 * GraphQl
+## Education
+1. Html Academy
+2. React Docs
+3. You Dont Know JS
+## English 
+Language Level - **A2**
